@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" build-on-make="true" name="TomcatServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/TomcatServer</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JoinEmailList/web/Web" />
+    </root>
+  </artifact>
+</component>

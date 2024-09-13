@@ -1,0 +1,45 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Aug 29, 2024, 9:28:43 AM
+    Author     : vuxua
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin: 2em;
+}
+h1 {
+    color: teal;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 0.4em;
+    margin-top: 0.2em;
+    margin-bottom: 1em;
+    box-sizing: border-box;
+}
+#submit {
+    padding: 0.5em 1em;
+    background-color: teal;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#submit:hover {
+    background-color: darkslategray;
+}
